@@ -5,7 +5,7 @@ public class Student
 {
     public string? Name { get; set; }
     public int ID { get; set; }
-    public List<double> Grades { get; set; } = new List<double>();
+    public List<double> Grades = new List<double>();
 
     public void AddGrade(double grade)
     {
@@ -19,6 +19,7 @@ public class Student
 
     public double CalculateAverageGrade()
     {
-        return Grades.Sum() / Grades.Count;
+        double averageGrade = Grades.Sum() / Grades.Count;
+        return averageGrade;
     }
 }

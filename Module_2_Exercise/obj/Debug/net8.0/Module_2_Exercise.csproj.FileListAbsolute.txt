@@ -1,0 +1,15 @@
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\bin\Debug\net8.0\Module_2_Exercise.exe
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\bin\Debug\net8.0\Module_2_Exercise.deps.json
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\bin\Debug\net8.0\Module_2_Exercise.runtimeconfig.json
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\bin\Debug\net8.0\Module_2_Exercise.dll
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\bin\Debug\net8.0\Module_2_Exercise.pdb
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.AssemblyInfoInputs.cache
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.AssemblyInfo.cs
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.sourcelink.json
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.dll
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\refint\Module_2_Exercise.dll
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.pdb
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\Module_2_Exercise.genruntimeconfig.cache
+C:\Users\pdahr\Desktop\repos\Module-2-Review\Module_2_Exercise\obj\Debug\net8.0\ref\Module_2_Exercise.dll
