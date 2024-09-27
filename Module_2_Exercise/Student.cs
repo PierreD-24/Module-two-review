@@ -16,4 +16,9 @@ public class Student
     {
         Grades.AddRange(grades);
     }
+
+    public double CalculateAverageGrade()
+    {
+        return Grades.Sum() / Grades.Count;
+    }
 }
