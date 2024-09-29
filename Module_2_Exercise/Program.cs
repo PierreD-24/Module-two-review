@@ -35,10 +35,10 @@ namespace ModuleReview
 
             foreach (Student student in students)
             {
-                
+
                 Console.WriteLine($"ID: {student.ID}, Name: {student.Name}");
 
-                
+
                 Console.Write("Grades: ");
                 foreach (var grade in student.Grades)
                 {
@@ -46,11 +46,26 @@ namespace ModuleReview
                 }
                 Console.WriteLine();
 
-                
+
                 double averageGrade = student.Grades.Average();
                 Console.WriteLine($"Average Grade: {averageGrade:F2}");
-                Console.WriteLine(); 
+                Console.WriteLine();
             }
+
+            Course course = new Course() { CourseName = "Computer Science", CourseCode = "CS101" };
+
+            course.AddEnrolledStudent(firstStudent);
+            course.AddEnrolledStudent(secondStudent);
+
+            foreach (var student in course.EnrolledStudents)
+            {
+                Console.WriteLine($"\nCourse Name: {course.CourseName}");
+                Console.WriteLine($"Course Code: {course.CourseCode}");
+                Console.WriteLine("Enrolled Students:");
+                Console.WriteLine($"Student Name: {student.Name}, ID: {student.ID}");
+            }
+
+
 
         }
     }
